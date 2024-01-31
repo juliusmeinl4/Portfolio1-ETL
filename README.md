@@ -22,3 +22,8 @@ For production, this project utilizes PostgreSQL to manage and store data effici
 ### Challenges Addressed
     Data Integration: Harmonizing data from diverse sales channels into a uniform format.
     Complex SKU Management: Dealing with products sold as sets (e.g., towel sets) while managing inventory at an individual item level, requiring intricate SKU mapping to differentiate between 
+
+
+### Live Reporting
+    Live Application: https://portfolio-app-d3jom.ondigitalocean.app/
+    Code Repository: https://github.com/juliusmeinl4/portfolio1
