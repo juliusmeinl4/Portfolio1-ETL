@@ -26,4 +26,4 @@ For production, this project utilizes PostgreSQL to manage and store data effici
 
 ### Live Reporting
     Live Application: https://portfolio-app-d3jom.ondigitalocean.app/
-    Code Repository: https://github.com/juliusmeinl4/portfolio1
+    Code Repository For Reporting : https://github.com/juliusmeinl4/portfolio1
